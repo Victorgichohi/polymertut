@@ -1,0 +1,21 @@
+{
+  "name": "polymertut",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Victorgichohi/polymertut",
+  "authors": [
+    "victorgichohi <vitorgichohi48@gmail.com>"
+  ],
+  "description": "bower tutorials",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#~1.1.3"
+  }
+}
